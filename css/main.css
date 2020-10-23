@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+#siteContainer {
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  width: 1200px;
+  height: 700px;
+  margin: 0 auto;
+}
+
+#game-title {
+  width: 1200px;
+  height: 130px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-family: 'Fontdiner Swanky', cursive;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  padding-top: 30px;
+}
+.selected {
+  color: #8ed400;
+}
+p {
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  padding-top: 20px;
+  font-family: 'Amatic SC', cursive;
+}
+#game-board {
+  width: 1200px;
+  height: 560px;
+  flex-wrap: nowrap;
+  display: flex;
+  flex-direction: row;
+}
+
+.music-buttons {
+  width: 270px;
+  height: 450px;
+  display: inline-block;
+  margin-left: 70px;
+  margin-top: 20px;
+  padding-bottom: 30px;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+}
+
+.animal-box {
+  width: 550px;
+  height: 450px;
+  background-color: #8ed400;
+  display: inline-block;
+  border-radius: 30px;
+  border: 9px groove yellow;
+  margin-top: 20px;
+  margin-left: 190px;
+}
+.music-buttons img {
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+
+  height: 100px;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+.animal-box img {
+  width: 140px;
+  height: 180px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.animal-box img:hover {
+  background-color: black;
+  border-radius: 50px;
+  opacity: 0.4;
+}
+
+.row1,
+.row2,
+.row3,
+.row4 {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Changing Color of svg images  */
+
+.button-image {
+  width: 50px;
+  height: 70px;
+}
+.music-buttons img:hover {
+  background-color: #8ed400;
+  border-radius: 50px;
+  opacity: 0.9;
+}
