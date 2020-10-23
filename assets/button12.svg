@@ -1,0 +1,46 @@
+<svg id="button12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="232.5" viewBox="0 0 164 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke-width: 5px;
+        fill-rule: evenodd;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.859" y1="143" x2="81.859" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.859" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music12">
+    <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-2" x="29.031" y="55.188" width="107.657" height="46.812" rx="6" ry="6"/>
+    <rect id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-3" x="29.031" y="55.188" width="107.657" height="25.312" rx="6" ry="6"/>
+    <path id="Shape_32_copy" data-name="Shape 32 copy" class="cls-4" d="M545.281,501.631V485.715" transform="translate(-491 -409)"/>
+    <path id="Shape_32_copy_3" data-name="Shape 32 copy 3" class="cls-4" d="M558.389,501.631V485.715" transform="translate(-491 -409)"/>
+    <path id="Shape_32_copy_4" data-name="Shape 32 copy 4" class="cls-4" d="M571.5,501.631V485.715" transform="translate(-491 -409)"/>
+    <path id="Shape_32_copy_5" data-name="Shape 32 copy 5" class="cls-4" d="M583.668,501.631V485.715" transform="translate(-491 -409)"/>
+    <path id="Shape_32_copy_6" data-name="Shape 32 copy 6" class="cls-4" d="M596.776,501.631V485.715" transform="translate(-491 -409)"/>
+    <path id="Shape_32_copy_7" data-name="Shape 32 copy 7" class="cls-4" d="M609.884,501.631V485.715" transform="translate(-491 -409)"/>
+    <path id="Shape_32_copy_2" data-name="Shape 32 copy 2" class="cls-4" d="M532.173,501.631V485.715" transform="translate(-491 -409)"/>
+  </g>
+</svg>

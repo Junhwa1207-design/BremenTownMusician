@@ -1,0 +1,29 @@
+<svg id="button09" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="232.5" viewBox="0 0 164 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 5.71px;
+        fill-rule: evenodd;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.859" y1="143" x2="81.859" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.859" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music9">
+    <path class="cls-2" d="M523.515,1111.3h76.12" transform="translate(-478 -1049)"/>
+    <path id="Shape_23_copy" data-name="Shape 23 copy" class="cls-2" d="M538.859,1092.18l-0.352,76.12" transform="translate(-478 -1049)"/>
+    <path id="Shape_23_copy_2" data-name="Shape 23 copy 2" class="cls-2" d="M552.8,1095.66l-0.352,61.97" transform="translate(-478 -1049)"/>
+    <path id="Shape_23_copy_3" data-name="Shape 23 copy 3" class="cls-2" d="M566.735,1095.65l-0.352,53.03" transform="translate(-478 -1049)"/>
+    <path id="Shape_23_copy_4" data-name="Shape 23 copy 4" class="cls-2" d="M580.415,1095.61l0.165,45.67" transform="translate(-478 -1049)"/>
+    <path id="Shape_23_copy_5" data-name="Shape 23 copy 5" class="cls-2" d="M592.611,1095.61l0.165,34.62" transform="translate(-478 -1049)"/>
+  </g>
+</svg>

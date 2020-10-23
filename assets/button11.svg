@@ -1,0 +1,44 @@
+<svg id="button11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="232.5" viewBox="0 0 164 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 2.51px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-width: 3.5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.859" y1="143" x2="81.859" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.859" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music11">
+    <path class="cls-2" d="M556.057,686.17s2.158-17.713,17.651-9.118,8.154,33.676,1.765,34.192-12.169-.282-14.121,6.838-13.569,29.684-30.006,9.118,2.3-39.887,8.825-36.471S551.235,692.418,556.057,686.17Z" transform="translate(-494 -616)"/>
+    <path class="cls-2" d="M573.708,683.1l24-17.337a7.773,7.773,0,0,1,5.538-7.43c5.812-2.029,7.384,2.476,7.384,2.476s1.06,1.531-1.846,4.954-4.13,4.07-7.384,4.953l-24,22.291Z" transform="translate(-494 -616)"/>
+    <path class="cls-3" d="M591.694,676.669l4.983,5.112" transform="translate(-494 -616)"/>
+    <path id="Shape_30_copy" data-name="Shape 30 copy" class="cls-3" d="M596.808,673.177l3.935,6.459" transform="translate(-494 -616)"/>
+    <path id="Shape_30_copy_2" data-name="Shape 30 copy 2" class="cls-3" d="M590.769,661.385l4.511,5.8" transform="translate(-494 -616)"/>
+    <path id="Shape_30_copy_3" data-name="Shape 30 copy 3" class="cls-3" d="M585.474,665.943l4.511,5.8" transform="translate(-494 -616)"/>
+    <path class="cls-4" d="M636.3,685.335l-76.172,57.821" transform="translate(-494 -616)"/>
+  </g>
+</svg>

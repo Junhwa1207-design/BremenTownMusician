@@ -1,0 +1,39 @@
+<svg id="button07" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="232.5" viewBox="0 0 164 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2.51px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.859" y1="143" x2="81.859" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.859" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music7">
+    <path class="cls-2" d="M125.847,1088.12s5.954,5.34-1.145,11.22c0,0-9.379,2.12-9.158-6.73s9.519-8.67,12.592-8.97c0,0,12.083,1.53,10.3,15.7s-14.038,23.55-17.17,31.4-7.062,15.07,8.013,19.07v-2.24h17.17l1.145,25.79H123.557l5.724-6.73v-3.36s-26.805-5.76-20.605-22.43,20.605-30.28,20.605-30.28S141.521,1090.77,125.847,1088.12Z" transform="translate(-64 -1049)"/>
+    <path id="Shape_15_copy" data-name="Shape 15 copy" class="cls-2" d="M169.664,1088.12s-6.656,5.34,1.28,11.22c0,0,10.483,2.12,10.236-6.73s-10.64-8.67-14.075-8.97c0,0-13.506,1.53-11.516,15.7s15.692,23.55,19.193,31.4,7.894,15.07-8.957,19.07v-2.24H146.632l-1.279,25.79h26.87l-6.4-6.73v-3.36s29.963-5.76,23.032-22.43-23.032-30.28-23.032-30.28S152.143,1090.77,169.664,1088.12Z" transform="translate(-64 -1049)"/>
+    <path class="cls-2" d="M135.574,1093.73h6.73l4.486-7.85,5.608,7.85h5.607v2.25H135.574v-2.25Z" transform="translate(-64 -1049)"/>
+    <path class="cls-3" d="M136.7,1099.34h21.309" transform="translate(-64 -1049)"/>
+    <path class="cls-3" d="M138.939,1100.46l-1.122,50.47" transform="translate(-64 -1049)"/>
+    <path id="Shape_19_copy_5" data-name="Shape 19 copy 5" class="cls-3" d="M160.248,1100.46l-1.121,50.47" transform="translate(-64 -1049)"/>
+    <path id="Shape_19_copy" data-name="Shape 19 copy" class="cls-3" d="M143.425,1100.46l-1.121,50.47" transform="translate(-64 -1049)"/>
+    <path id="Shape_19_copy_2" data-name="Shape 19 copy 2" class="cls-3" d="M149.033,1100.46l-1.122,50.47" transform="translate(-64 -1049)"/>
+    <path id="Shape_19_copy_3" data-name="Shape 19 copy 3" class="cls-3" d="M154.641,1100.46l-1.122,50.47" transform="translate(-64 -1049)"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg id="button06" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244.5" height="232.5" viewBox="0 0 163 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2.51px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.453" y1="143" x2="81.453" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.453" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music6">
+    <path class="cls-2" d="M365,938l18-8m-15-14a6.5,6.5,0,1,1-6.5,6.5A6.5,6.5,0,0,1,368,916Zm14,14-17,7Zm-29-8s-17.318-11.522,1-22l-17-38s-2.181.034-4-3-6.292-8.874,0-11,8.372,4.6,9,7a8.562,8.562,0,0,1,0,4l18,38s17.677-6.411,17,14c0,0,.641,4.143,7,7s15.866,16,1,28-28.385,1.286-30-3,0.4-13.471,0-15S353.382,921.992,353,922Z" transform="translate(-274 -822)"/>
+    <path class="cls-3" d="M338.874,850.493c1.814-1.236,3.695-2.277,3.695-2.277" transform="translate(-274 -822)"/>
+    <path id="Shape_14_copy" data-name="Shape 14 copy" class="cls-3" d="M339.874,853.493c1.814-1.236,3.695-2.277,3.695-2.277" transform="translate(-274 -822)"/>
+    <path id="Shape_14_copy_2" data-name="Shape 14 copy 2" class="cls-3" d="M340.874,856.492c1.814-1.235,3.695-2.276,3.695-2.276" transform="translate(-274 -822)"/>
+    <path id="Shape_14_copy_3" data-name="Shape 14 copy 3" class="cls-3" d="M326.874,853.493c1.814-1.236,3.695-2.277,3.695-2.277" transform="translate(-274 -822)"/>
+    <path id="Shape_14_copy_4" data-name="Shape 14 copy 4" class="cls-3" d="M327.874,857.493c1.814-1.236,3.695-2.277,3.695-2.277" transform="translate(-274 -822)"/>
+    <path id="Shape_14_copy_5" data-name="Shape 14 copy 5" class="cls-3" d="M329.874,860.493c1.814-1.236,3.695-2.277,3.695-2.277" transform="translate(-274 -822)"/>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg id="button02" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244.5" height="232.5" viewBox="0 0 163 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: 2.51px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 5px;
+      }
+
+      .cls-6 {
+        stroke-width: 2.5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.453" y1="143" x2="81.453" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.453" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music2">
+    <ellipse class="cls-2" cx="80.64" cy="63.765" rx="40.516" ry="10.391"/>
+    <path class="cls-3" d="M307.9,473.093s2.16,5.14,12.1,6.048v29.032s-11.085-1.173-13.307-6.048Z" transform="translate(-269 -405)"/>
+    <path class="cls-3" d="M323.626,480.351s15.757,3.972,25.4,1.21L347.82,511.8s-22.589-.743-24.194-3.629V480.351Z" transform="translate(-269 -405)"/>
+    <path class="cls-3" d="M352.659,482.77s16.791,1.114,22.983-2.419v29.032s-13.451,3.11-24.193,1.21V482.77h1.21Z" transform="translate(-269 -405)"/>
+    <path class="cls-3" d="M379.271,479.141s7.722-.679,13.307-6.048v29.032s-6,5.372-13.307,6.048V479.141Z" transform="translate(-269 -405)"/>
+    <path class="cls-4" d="M306.691,508.173s32.123,20.112,85.887,1.21" transform="translate(-269 -405)"/>
+    <ellipse class="cls-5" cx="72.781" cy="62.656" rx="3.625" ry="3.031"/>
+    <circle class="cls-5" cx="89.703" cy="63.25" r="3.641"/>
+    <path class="cls-6" d="M342.981,464.625l29.032-30.241" transform="translate(-269 -405)"/>
+    <path id="Shape_10_copy" data-name="Shape 10 copy" class="cls-6" d="M355.418,466.043L325.6,436.576" transform="translate(-269 -405)"/>
+  </g>
+</svg>
