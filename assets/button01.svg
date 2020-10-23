@@ -1,0 +1,47 @@
+<svg id="button01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244.5" height="232.5" viewBox="0 0 163 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: 4.5px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.453" y1="143" x2="81.453" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.453" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music01">
+    <path class="cls-2" d="M101.248,495.965l90.073-1.143v20.586s0.874,4.467-9.212,4.574-76.767,0-76.767,0-4.11.659-4.094-11.436,0-12.581,0-12.581" transform="translate(-64 -405)"/>
+    <path class="cls-3" d="M113.035,511.921l-0.383-12.661" transform="translate(-64 -405)"/>
+    <path class="cls-3" d="M122.228,511.915l-0.343-12.662" transform="translate(-64 -405)"/>
+    <path id="Shape_3_copy" data-name="Shape 3 copy" class="cls-3" d="M132.361,511.887L132.22,499.22" transform="translate(-64 -405)"/>
+    <path id="Shape_3_copy_2" data-name="Shape 3 copy 2" class="cls-3" d="M140.671,511.92l-0.381-12.661" transform="translate(-64 -405)"/>
+    <path id="Shape_3_copy_3" data-name="Shape 3 copy 3" class="cls-4" d="M145.6,512L145.6,499.379" transform="translate(-64 -405)"/>
+    <path id="Shape_3_copy_4" data-name="Shape 3 copy 4" class="cls-3" d="M158.018,511.906l-0.275-12.664" transform="translate(-64 -405)"/>
+    <path id="Shape_3_copy_5" data-name="Shape 3 copy 5" class="cls-3" d="M164.279,511.937l-0.514-12.655" transform="translate(-64 -405)"/>
+    <path id="Shape_3_copy_6" data-name="Shape 3 copy 6" class="cls-3" d="M177.6,511.942l-0.548-12.654" transform="translate(-64 -405)"/>
+    <path class="cls-4" d="M98.177,462.415c2.578-4.02,20.023-33.829,54.249-5.6s38.439,8.666,41.965,7.836,0,34.7,0,34.7l-97.237,1.119S95.6,466.434,98.177,462.415Z" transform="translate(-64 -405)"/>
+  </g>
+</svg>

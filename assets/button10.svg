@@ -1,0 +1,42 @@
+<svg id="button10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="232.5" viewBox="0 0 164 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-width: 2.51px;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.859" y1="143" x2="81.859" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.859" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music10">
+    <g>
+      <path class="cls-2" d="M524.165,880.781l27.678-14.9s-11.246-4.814-21.291,0S524.165,880.781,524.165,880.781Z" transform="translate(-485 -822)"/>
+      <path class="cls-3" d="M523.5,887.776c-0.971-2.211,32.522-21.9,32.522-21.9a74.535,74.535,0,0,1,4.337,9.733H549.518l-2.168,12.165H530.005v12.166S527.205,896.212,523.5,887.776Z" transform="translate(-485 -822)"/>
+      <path class="cls-3" d="M536.939,891.426h12.775l2.129-12.774,12.774,4.258L534.81,904.2Z" transform="translate(-485 -822)"/>
+      <path class="cls-3" d="M539.068,906.329l27.678-19.161S565.61,900.9,562.488,904.2s-2.129,2.129-2.129,2.129l25.548,38.322s2.109,5.044-4.258,4.258L556.1,908.458S546.523,909.945,539.068,906.329Z" transform="translate(-485 -822)"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M588.233,865.755l24.992,19.5s-0.12-12.336-8.641-19.655S588.233,865.755,588.233,865.755Z" transform="translate(-485 -822)"/>
+      <path class="cls-3" d="M581.505,867.98c1.647-1.794,33.416,21.137,33.416,21.137a75.15,75.15,0,0,1-7.225,7.953l-4.4-10.008L591.184,890l-7.039-16.013-11.231,4.937S575.222,874.824,581.505,867.98Z" transform="translate(-485 -822)"/>
+      <path class="cls-3" d="M583.59,881.869l5.184,11.793,12.658-3.219,1.253,13.521-31.752-18.877Z" transform="translate(-485 -822)"/>
+      <path class="cls-3" d="M570.7,889.882l28.922,17.776s-13.135,4.523-17.452,2.981-2.83-1.1-2.83-1.1l-25.01,39.139s-3.8,4-5.659-2.2l26.976-40S570.382,898.232,570.7,889.882Z" transform="translate(-485 -822)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg id="button03" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244.5" height="232.5" viewBox="0 0 163 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke-width: 3.5px;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="81.453" y1="143" x2="81.453" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0dccff"/>
+      <stop offset="1" stop-color="#4760ff"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="button" class="cls-1" cx="81.453" cy="77.5" rx="69.453" ry="65.5"/>
+  <g id="music3">
+    <path class="cls-2" d="M306,665.529a2.08,2.08,0,0,1,.331-0.413c1.478-1.474,6.248-3.3,13.851-9.4,8.323-6.686,14.411-3.7,16.364,1.091s26.183,60,26.183,60l4.363,9.819s1.9,2.891,4.364,2.182,2.7,0.51,3.273-6.546-6.413-25.557-9.819-27.273l27.274-2.182s-10.02,5.639-8.728,14.182,8.526,34.792-7.636,36-18.969-3.952-26.183-22.91S331.094,668.8,331.094,668.8s-3-9.57-6.545-8.727S305.072,667.109,306,665.529Z" transform="translate(-272 -616)"/>
+    <path class="cls-3" d="M339.822,668.8h5.455" transform="translate(-272 -616)"/>
+    <path id="Shape_12_copy" data-name="Shape 12 copy" class="cls-4" d="M338.414,669.931l9-2.153" transform="translate(-272 -616)"/>
+    <path id="Shape_12_copy_2" data-name="Shape 12 copy 2" class="cls-4" d="M338.414,669.931l9-2.153" transform="translate(-272 -616)"/>
+    <path id="Shape_12_copy_3" data-name="Shape 12 copy 3" class="cls-4" d="M341.687,677.568l9-2.154" transform="translate(-272 -616)"/>
+    <path id="Shape_12_copy_4" data-name="Shape 12 copy 4" class="cls-4" d="M344.959,686.3l9-2.153" transform="translate(-272 -616)"/>
+    <path id="Shape_12_copy_5" data-name="Shape 12 copy 5" class="cls-4" d="M348.232,695.023l9-2.154" transform="translate(-272 -616)"/>
+  </g>
+</svg>
