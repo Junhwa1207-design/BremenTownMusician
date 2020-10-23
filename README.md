@@ -6,7 +6,5 @@ This repo is for a Music Mixer Game! The game objective is to match the images o
 
 Designer/Developer: Junhwa Jung
 
-MIT Liscence
-
 Copyright (c) [2020] [Junwha Jung]
 
