@@ -1,6 +1,6 @@
 # Bremen Town Musicians!
 
-<img width="500" height="300" alt="Screen Shot 2020-10-23 at 12 14 04 AM" src="https://user-images.githubusercontent.com/71682432/97137896-4a277880-172d-11eb-8a91-922b461431a9.png">
+<img width="500" height="280" alt="Screen Shot 2020-10-23 at 12 14 04 AM" src="https://user-images.githubusercontent.com/71682432/97137896-4a277880-172d-11eb-8a91-922b461431a9.png">
 
 Description
 
